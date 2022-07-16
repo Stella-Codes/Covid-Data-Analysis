@@ -1,6 +1,6 @@
 -- This project explores Global COVID-19 data for the year of 2021.
 
--- Part I: Covid Deaths Analysis:
+**-- Part I: Covid Deaths Analysis:**
 -- Visualizing data import to verify data integrity:
 
 SELECT * 
@@ -133,7 +133,7 @@ WHERE dea.continent is not null;
 SELECT *,(RollingVaccinatedPeopleCount/Population)*100 AS PercentageVaccinatedPpl
 FROM VacPop;
 
--- Creating Views to store data for later visualizations in Tableau:
+-- Part III: Creating Views to store data for later visualizations in Tableau:
 -- These Views will now be able to be used for future queries to be pulled from as well.
 
 -- Global % Of Vaccinated People per Location:
