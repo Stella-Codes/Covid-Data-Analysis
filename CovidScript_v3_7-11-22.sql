@@ -1,4 +1,4 @@
--- This project explores Wordly Covid data for the year of 2021.
+-- This project explores Wordly COVID data for the year of 2021.
 
 -- Part I: Covid Deaths Analysis:
 -- Visualizing data import to verify data integrity:
