@@ -1,6 +1,6 @@
 -- This project explores Global COVID-19 data for the year of 2021.
 
-**-- Part I: Covid Deaths Analysis:**
+-- Part I: Covid Deaths Analysis:
 -- Visualizing data import to verify data integrity:
 
 SELECT * 
